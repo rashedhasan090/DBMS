@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1302386633 source:d:\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1302400996 source:i:\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1302400996 source:c:\users\admin\desktop\latest\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1302400996 source:j:\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1302351496 source:h:\c projects\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1302351496 source:g:\blogupdate file\c projects\bank_management_system\index.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
